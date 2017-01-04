@@ -7,11 +7,11 @@ D2 CAMPUS FEST 2016<br>
 
 ## Overview
 *Push server
-Push server는 가지고 있는 Cralwer를 주기적으로 실행하며 변동사항이 있으면 사용자에게 알림 푸시를 합니다.
+Push server는 가지고 있는 Cralwer를 주기적으로 실행하며 변동사항이 있으면 사용자에게 알림 푸시를 합니다.<br>
 *API server
-API서버는 전체적인 어플리케이션의 구동을 담당합니다.
+API서버는 전체적인 어플리케이션의 구동을 담당합니다.<br>
 *IOS
-IOS는 Application을 통해 유저와 API Server간 통신을 합니다.
+IOS는 Application을 통해 유저와 API Server간 통신을 합니다.<br>
 
 ## Source
 * [Crawling & Push server](https://github.com/epikjjh/Stay_Hungry_Push-server) : 크롤러를 통해 웹의 변화를 확인하고, Push 메시지를 발송하는 서버

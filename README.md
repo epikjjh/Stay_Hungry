@@ -1,5 +1,5 @@
 # Stay_Hungry
-Stay_Hungry는 웹 크롤링 기반 Push 서비스입니다. 웹에서 컨텐츠가 변하면, 스마트폰 Push로 알려줍니다.
+Stay_Hungry는 웹 크롤링 기반 Push 서비스입니다. 웹에서 컨텐츠가 변하면, 스마트폰 Push로 알려줍니다.<br>
 D2 CAMPUS FEST 2016<br>
 
 ## Architecture

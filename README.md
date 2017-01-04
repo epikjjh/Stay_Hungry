@@ -6,11 +6,11 @@ D2 CAMPUS FEST 2016<br>
 ![img_architecture](./Stay_Hungry_Architecture.png)
 
 ## Overview
-*Push server
+*Push server<br>
 Push server는 가지고 있는 Cralwer를 주기적으로 실행하며 변동사항이 있으면 사용자에게 알림 푸시를 합니다.<br>
-*API server
+*API server<br>
 API서버는 전체적인 어플리케이션의 구동을 담당합니다.<br>
-*IOS
+*IOS<br>
 IOS는 Application을 통해 유저와 API Server간 통신을 합니다.<br>
 
 ## Source

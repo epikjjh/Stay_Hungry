@@ -18,7 +18,7 @@ IOS는 Application을 통해 유저와 API Server간 통신을 합니다.<br>
 ## Source
 * [Crawling & Push server](https://github.com/epikjjh/Stay_Hungry_Push-server) : 크롤러를 통해 웹의 변화를 확인하고, Push 메시지를 발송하는 서버
 * [API server](https://github.com/epikjjh/Stay_Hungry_Server) : 회원관리, 크롤러 구독을 위한 서버
-* [IOS Client](https://github.com/epikjjh/Stay_Hungry_IOS) : IOS Application
+* [IOS Client](https://github.com/HyOsori/HungryOsori-iOS) : IOS Application
 
 ## 오픈소스 목록
 * Scrapy 1.2(https://scrapy.org/) : Crawler

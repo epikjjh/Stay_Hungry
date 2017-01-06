@@ -15,6 +15,9 @@ API서버는 전체적인 어플리케이션의 구동을 담당합니다.<br>
 *IOS<br>
 IOS는 Application을 통해 유저와 API Server간 통신을 합니다.<br>
 
+## 시연영상
+*[유튜브영상](https://youtu.be/aGggVHdmT3U)
+
 ## Source
 * [Crawling & Push server](https://github.com/epikjjh/Stay_Hungry_Push-server) : 크롤러를 통해 웹의 변화를 확인하고, Push 메시지를 발송하는 서버
 * [API server](https://github.com/epikjjh/Stay_Hungry_Server) : 회원관리, 크롤러 구독을 위한 서버
